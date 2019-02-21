@@ -47,6 +47,33 @@ class Index extends React.Component {
                 <header className="major">
                   <h2>Ipsum sed adipiscing</h2>
                 </header>
+                <div class="inner">
+								<p><strong>Click the buttons</strong> to see the animated rotations in action.</p>
+								<div class="wrap">
+									<div class="cube">
+										<div id="cubeFields"><div class="field mezo mezo1 szine1"><span>1</span></div><div class="field mezo mezo2 szine1"><span>2</span></div><div class="field mezo mezo3 szine1"><span>3</span></div><div class="field mezo mezo4 szine1"><span>4</span></div><div class="field mezo mezo5 szine1"><span>5</span></div><div class="field mezo mezo6 szine1"><span>6</span></div><div class="field mezo mezo7 szine1"><span>7</span></div><div class="field mezo mezo8 szine1"><span>8</span></div><div class="field mezo mezo9 szine1"><span>9</span></div><div class="field mezo mezo10 szine3"><span>10</span></div><div class="field mezo mezo11 szine3"><span>11</span></div><div class="field mezo mezo12 szine3"><span>12</span></div><div class="field mezo mezo13 szine2"><span>13</span></div><div class="field mezo mezo14 szine2"><span>14</span></div><div class="field mezo mezo15 szine2"><span>15</span></div><div class="field mezo mezo16 szine2"><span>16</span></div><div class="field mezo mezo17 szine2"><span>17</span></div><div class="field mezo mezo18 szine2"><span>18</span></div><div class="field mezo mezo19 szine4"><span>19</span></div><div class="field mezo mezo20 szine4"><span>20</span></div><div class="field mezo mezo21 szine4"><span>21</span></div><div class="field mezo mezo22 szine3"><span>22</span></div><div class="field mezo mezo23 szine3"><span>23</span></div><div class="field mezo mezo24 szine3"><span>24</span></div><div class="field mezo mezo25 szine3"><span>25</span></div><div class="field mezo mezo26 szine3"><span>26</span></div><div class="field mezo mezo27 szine3"><span>27</span></div><div class="field mezo mezo28 szine5"><span>28</span></div><div class="field mezo mezo29 szine5"><span>29</span></div><div class="field mezo mezo30 szine5"><span>30</span></div><div class="field mezo mezo31 szine4"><span>31</span></div><div class="field mezo mezo32 szine4"><span>32</span></div><div class="field mezo mezo33 szine4"><span>33</span></div><div class="field mezo mezo34 szine4"><span>34</span></div><div class="field mezo mezo35 szine4"><span>35</span></div><div class="field mezo mezo36 szine4"><span>36</span></div><div class="field mezo mezo37 szine2"><span>37</span></div><div class="field mezo mezo38 szine2"><span>38</span></div><div class="field mezo mezo39 szine2"><span>39</span></div><div class="field mezo mezo40 szine5"><span>40</span></div><div class="field mezo mezo41 szine5"><span>41</span></div><div class="field mezo mezo42 szine5"><span>42</span></div><div class="field mezo mezo43 szine5"><span>43</span></div><div class="field mezo mezo44 szine5"><span>44</span></div><div class="field mezo mezo45 szine5"><span>45</span></div><div class="field mezo mezo46 szine6"><span>46</span></div><div class="field mezo mezo47 szine6"><span>47</span></div><div class="field mezo mezo48 szine6"><span>48</span></div><div class="field mezo mezo49 szine6"><span>49</span></div><div class="field mezo mezo50 szine6"><span>50</span></div><div class="field mezo mezo51 szine6"><span>51</span></div><div class="field mezo mezo52 szine6"><span>52</span></div><div class="field mezo mezo53 szine6"><span>53</span></div><div class="field mezo mezo54 szine6"><span>54</span></div></div>	
+										<div id="rotLayer" style="transform: rotateY(0deg);"></div>	
+									</div>
+								</div>
+								
+								<div class="commands clearfix">
+									<div class="commandExplain">Clockwise face rotations:</div>
+									<div class="rotateU">U</div>
+									<div class="rotateL">L</div>
+									<div class="rotateF">F</div>
+									<div class="rotateR">R</div>
+									<div class="rotateB">B</div>
+									<div class="rotateD">D</div>
+
+									<div class="commandExplain">Counterclockwise face rotations:</div>
+									<div class="rotateUi">U'</div>
+									<div class="rotateLi">L'</div>
+									<div class="rotateFi">F'</div>
+									<div class="rotateRi">R'</div>
+									<div class="rotateBi">B'</div>
+									<div class="rotateDi">D'</div>
+								</div>
+							</div>
                 <p>Sed lorem ipsum dolor sit amet nullam consequat feugiat consequat magna
                 adipiscing magna etiam amet veroeros. Lorem ipsum dolor tempus sit cursus.
                 Tempus nisl et nullam lorem ipsum dolor sit amet aliquam.</p>
