@@ -47,10 +47,10 @@ class Index extends React.Component {
                 <header className="major">
                   <h2>Ipsum sed adipiscing</h2>
                 </header>
+                <iframe height="270" width="300px" scrolling="no" frameborder="0" src="https://rubiks3x3.com/algorithm/"></iframe> 
                 <p>Sed lorem ipsum dolor sit amet nullam consequat feugiat consequat magna
                 adipiscing magna etiam amet veroeros. Lorem ipsum dolor tempus sit cursus.
                 Tempus nisl et nullam lorem ipsum dolor sit amet aliquam.</p>
-                <iframe height="270" width="300px" scrolling="no" frameborder="0" src="https://rubiks3x3.com/algorithm/"></iframe> 
                 <ul className="actions">
                   <li><Link to="/generic" className="button">Learn More</Link></li>
                 </ul>
